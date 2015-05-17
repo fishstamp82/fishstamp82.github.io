@@ -1,0 +1,12 @@
+# Site settings
+title: Ignat Harczuk
+email: ignathe@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is the user website for my github repository.
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+url: "http://harczuk.se" # the base hostname & protocol for your site
+twitter_username: fireignat
+github_username:  fishstamp82
+
+# Build settings
+markdown: kramdown
